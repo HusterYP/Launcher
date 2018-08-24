@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3571057450431950427" name="activity_not_found">"Aplikacja nie jest zainstalowana w telefonie."</string>
+    <string msgid="2337943840175865746" name="add_clock">"Zegar"</string>
+    <string msgid="3521088587367839879" name="add_folder">"Folder"</string>
+    <string msgid="3154058437359487954" name="add_photo_frame">"Ramka obrazu"</string>
+    <string msgid="7104834713685095105" name="add_search">"Wyszukiwarka"</string>
+    <string msgid="5865630159700533006" name="application_name">"Sieć"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"Anuluj"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"Wybierz tapetę"</string>
+    <string msgid="4588446541914685904" name="folder_name">"Folder"</string>
+    <string msgid="8359351016167075858" name="gadget_error_text">"Problem podczas ładowania widżetu"</string>
+    <string msgid="4118484163419674240" name="group_applications">"Aplikacje"</string>
+    <string msgid="5143593791798929193" name="group_folder">"Nowy folder"</string>
+    <string msgid="2664945399140647217" name="group_live_folders">"Foldery"</string>
+    <string msgid="5905328940867162196" name="group_search">"Wyszukiwarka"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"Skróty"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"Tapety"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"Widżety"</string>
+    <string msgid="3065046628354640854" name="menu_add">"Dodaj"</string>
+    <string msgid="514678675575912237" name="menu_gestures">"Gesty"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"Dodaj do strony głównej"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"Powiadomienia"</string>
+    <string msgid="4826514464423239041" name="menu_search">"Szukaj"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"Ustawienia"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"Tapeta"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"Brak miejsca na tej stronie głównej"</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"Umożliwia aplikacji dodawanie skrótów bez interwencji użytkownika."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"Umożliwia aplikacji odczytywanie ustawień i skrótów strony głównej."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"Umożliwia aplikacji usuwanie skrótów bez interwencji użytkownika."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"Umożliwia aplikacji zmianę ustawień i skrótów strony głównej."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"zainstaluj skróty"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"odczytywanie ustawień i skrótów strony głównej"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"odinstaluj skróty"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"zapisywanie ustawień i skrótów strony głównej"</string>
+    <string msgid="2674908923379130941" name="pick_wallpaper">"Galeria tapet"</string>
+    <string msgid="6016003384693240896" name="rename_action">"OK"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"Nazwa folderu"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"Zmień nazwę folderu"</string>
+    <string msgid="6974176141372467453" name="search_hint">"Szukaj w Google"</string>
+    <string msgid="4887186782641532074" name="shortcut_duplicate">"Skrót „%s” już istnieje."</string>
+    <string msgid="6179314539443046225" name="shortcut_installed">"Utworzono skrót „%s”."</string>
+    <string msgid="2758997515869993129" name="shortcut_uninstalled">"Skrót „%s” został usunięty."</string>
+    <string msgid="3753447798805166749" name="title_select_live_folder">"Wybierz folder"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"Wybierz skrót"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Aplikacje główne systemu Android"</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"Ustaw tapetę"</string>
+</resources>

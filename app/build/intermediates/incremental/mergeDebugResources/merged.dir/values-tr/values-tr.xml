@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3571057450431950427" name="activity_not_found">"Uygulama telefonunuza yüklenmemiş."</string>
+    <string msgid="2337943840175865746" name="add_clock">"Saat"</string>
+    <string msgid="3521088587367839879" name="add_folder">"Klasör"</string>
+    <string msgid="3154058437359487954" name="add_photo_frame">"Resim çerçevesi"</string>
+    <string msgid="7104834713685095105" name="add_search">"Arama"</string>
+    <string msgid="5865630159700533006" name="application_name">"Ana Sayfa"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"İptal"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"Buradan duvar kağıdını seçin:"</string>
+    <string msgid="4588446541914685904" name="folder_name">"Klasör"</string>
+    <string msgid="8359351016167075858" name="gadget_error_text">"Widget yüklenirken sorun oluştu"</string>
+    <string msgid="4118484163419674240" name="group_applications">"Uygulamalar"</string>
+    <string msgid="5143593791798929193" name="group_folder">"Yeni klasör"</string>
+    <string msgid="2664945399140647217" name="group_live_folders">"Klasörler"</string>
+    <string msgid="5905328940867162196" name="group_search">"Arama"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"Kısayollar"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"Duvar Kağıtları"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"Widget\'lar"</string>
+    <string msgid="3065046628354640854" name="menu_add">"Ekle"</string>
+    <string msgid="514678675575912237" name="menu_gestures">"Hareketler"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"Ana ekrana ekle"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"Bildirimler"</string>
+    <string msgid="4826514464423239041" name="menu_search">"Ara"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"Ayarlar"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"Duvar Kağıdı"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"Bu Ana ekranda başka yer yok."</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"Bir uygulamaya, kısayolları kullanıcı müdahale etmeden ekleme izni verir."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"Bir uygulamaya Ana Sayfadaki ayarları ve kısayolları okuma izni verir."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"Bir uygulamaya, kısayolları kullanıcı müdahale etmeden kaldırma izni verir."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"Bir uygulamaya Ana Sayfadaki ayarları ve kısayolları değiştirme izni verir."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"kısayolları yükle"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"Ana Sayfa ayarlarını ve kısayollarını oku"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"kısayolları kaldır"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"Ana Sayfa ayarlarını ve kısayollarını yaz"</string>
+    <string msgid="2674908923379130941" name="pick_wallpaper">"Duvar kağıdı galerisi"</string>
+    <string msgid="6016003384693240896" name="rename_action">"Tamam"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"Klasör adı"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"Klasörü yeniden adlandır"</string>
+    <string msgid="6974176141372467453" name="search_hint">"Google Arama"</string>
+    <string msgid="4887186782641532074" name="shortcut_duplicate">"\"%s\" kısayolu zaten var."</string>
+    <string msgid="6179314539443046225" name="shortcut_installed">"\"%s\" kısayolu oluşturuldu."</string>
+    <string msgid="2758997515869993129" name="shortcut_uninstalled">"\"%s\" kısayolu kaldırıldı."</string>
+    <string msgid="3753447798805166749" name="title_select_live_folder">"Klasörü seçin"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"Kısayolu seçin"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Android Core Apps"</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"Duvar kağıdını ayarla"</string>
+</resources>

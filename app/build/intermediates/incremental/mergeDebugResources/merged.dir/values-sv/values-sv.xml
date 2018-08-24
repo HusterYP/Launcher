@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3571057450431950427" name="activity_not_found">"Programmet är inte installerat på din telefon."</string>
+    <string msgid="2337943840175865746" name="add_clock">"Klocka"</string>
+    <string msgid="3521088587367839879" name="add_folder">"Mapp"</string>
+    <string msgid="3154058437359487954" name="add_photo_frame">"Bildram"</string>
+    <string msgid="7104834713685095105" name="add_search">"Sök"</string>
+    <string msgid="5865630159700533006" name="application_name">"Start"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"Avbryt"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"Välj bakgrund från"</string>
+    <string msgid="4588446541914685904" name="folder_name">"Mapp"</string>
+    <string msgid="8359351016167075858" name="gadget_error_text">"Det gick inte att läsa in widgeten"</string>
+    <string msgid="4118484163419674240" name="group_applications">"Program"</string>
+    <string msgid="5143593791798929193" name="group_folder">"Ny mapp"</string>
+    <string msgid="2664945399140647217" name="group_live_folders">"Mappar"</string>
+    <string msgid="5905328940867162196" name="group_search">"Sök"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"Genvägar"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"Bakgrundsbilder"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"Widgetar"</string>
+    <string msgid="3065046628354640854" name="menu_add">"Lägg till"</string>
+    <string msgid="514678675575912237" name="menu_gestures">"Gester"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"Lägg till på startsidan"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"Aviseringar"</string>
+    <string msgid="4826514464423239041" name="menu_search">"Sök"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"Inställningar"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"Bakgrund"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"Det finns inte plats för mer på den här startsidan."</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"Tillåter att ett program lägger till genvägar utan åtgärd från användaren."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"Tillåter att ett program läser inställningar och genvägar på startsidan."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"Tillåter att ett program tar bort genvägar utan åtgärd från användaren."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"Tillåter att ett program ändrar inställningar och genvägar på startsidan."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"installera genvägar"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"läsa inställningar och genvägar för startsidan"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"avinstallera genvägar"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"skriva inställningar och genvägar för startsidan"</string>
+    <string msgid="2674908923379130941" name="pick_wallpaper">"Bakgrundsgalleri"</string>
+    <string msgid="6016003384693240896" name="rename_action">"OK"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"Mappnamn"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"Byt namn på mapp"</string>
+    <string msgid="6974176141372467453" name="search_hint">"Sök på Google"</string>
+    <string msgid="4887186782641532074" name="shortcut_duplicate">"Genvägen %s finns redan."</string>
+    <string msgid="6179314539443046225" name="shortcut_installed">"Genvägen %s har skapats."</string>
+    <string msgid="2758997515869993129" name="shortcut_uninstalled">"Genvägen %s har tagits bort."</string>
+    <string msgid="3753447798805166749" name="title_select_live_folder">"Välj mapp"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"Välj genväg"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Android Core Apps"</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"Ange bakgrund"</string>
+</resources>

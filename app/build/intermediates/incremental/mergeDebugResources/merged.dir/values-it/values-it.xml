@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3571057450431950427" name="activity_not_found">"Applicazione non installata sul telefono."</string>
+    <string msgid="2337943840175865746" name="add_clock">"Orologio"</string>
+    <string msgid="3521088587367839879" name="add_folder">"Cartella"</string>
+    <string msgid="3154058437359487954" name="add_photo_frame">"Cornice immagini"</string>
+    <string msgid="7104834713685095105" name="add_search">"Ricerca"</string>
+    <string msgid="5865630159700533006" name="application_name">"Home"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"Annulla"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"Seleziona sfondo da"</string>
+    <string msgid="4588446541914685904" name="folder_name">"Cartella"</string>
+    <string msgid="8359351016167075858" name="gadget_error_text">"Errore durante il caricamento del widget"</string>
+    <string msgid="4118484163419674240" name="group_applications">"Applicazioni"</string>
+    <string msgid="5143593791798929193" name="group_folder">"Nuova cartella"</string>
+    <string msgid="2664945399140647217" name="group_live_folders">"Cartelle"</string>
+    <string msgid="5905328940867162196" name="group_search">"Ricerca"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"Collegamenti"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"Sfondi"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"Widget"</string>
+    <string msgid="3065046628354640854" name="menu_add">"Aggiungi"</string>
+    <string msgid="514678675575912237" name="menu_gestures">"Gesti"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"Aggiungi a schermata Home"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"Notifiche"</string>
+    <string msgid="4826514464423239041" name="menu_search">"Cerca"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"Impostazioni"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"Sfondo"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"Spazio nella schermata Home esaurito."</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"Consente a un\'applicazione di aggiungere scorciatoie automaticamente."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"Consente a un\'applicazione di leggere le impostazioni e le scorciatoie in Home."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"Consente a un\'applicazione di rimuovere scorciatoie automaticamente."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"Consente a un\'applicazione di modificare le impostazioni e le scorciatoie in Home."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"aggiungere scorciatorie"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"leggere impostazioni e scorciatoie in Home"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"eliminare scorciatoie"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"creare impostazioni e scorciatoie in Home"</string>
+    <string msgid="2674908923379130941" name="pick_wallpaper">"Galleria sfondi"</string>
+    <string msgid="6016003384693240896" name="rename_action">"OK"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"Nome cartella"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"Rinomina cartella"</string>
+    <string msgid="6974176141372467453" name="search_hint">"Ricerca Google"</string>
+    <string msgid="4887186782641532074" name="shortcut_duplicate">"Scorciatoia \"%s\" già presente."</string>
+    <string msgid="6179314539443046225" name="shortcut_installed">"Collegamento \"%s\" creato."</string>
+    <string msgid="2758997515869993129" name="shortcut_uninstalled">"La scorciatoia \"%s\" è stata rimossa."</string>
+    <string msgid="3753447798805166749" name="title_select_live_folder">"Seleziona cartella"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"Seleziona collegamento"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Android Core Apps"</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"Imposta sfondo"</string>
+</resources>

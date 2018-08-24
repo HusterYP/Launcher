@@ -1,0 +1,438 @@
+[
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_jellyfish.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_jellyfish.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_textfield_searchwidget_default.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/textfield_searchwidget_default.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_launcher_gallery.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_launcher_gallery.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-port_user_folder.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-port/user_folder.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_launcher_shortcut.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_launcher_shortcut.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_handle.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/handle.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_textfield_searchwidget_selected.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/textfield_searchwidget_selected.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-port_tray_handle_pressed.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-port/tray_handle_pressed.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_search_widget.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_search_widget.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-land_ic_tray_collapse.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-land/ic_tray_collapse.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_textfield_searchwidget.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/textfield_searchwidget.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-land_tray_handle_normal.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-land/tray_handle_normal.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_lake.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_lake.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_widget_search.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/widget_search.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_list_category.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/list_category.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-port_delete_handle_normal.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-port/delete_handle_normal.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_zanzibar.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_zanzibar.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-port_application_boxed.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-port/application_boxed.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_turtle.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_turtle.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-land_workspace_screen.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-land/workspace_screen.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_launcher_application.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_launcher_application.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-port_live_folder_icon.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-port/live_folder_icon.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_frog.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_frog.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-land_delete_handle_normal.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-land/delete_handle_normal.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_launcher_folder_open.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_launcher_folder_open.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_sunset.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_sunset.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-land_live_folder_icon.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-land/live_folder_icon.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_road.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_road.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_mountain.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_mountain.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_sunset_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_sunset_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_path.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_path.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_sunrise.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_sunrise.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-port_tray_handle_selected.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-port/tray_handle_selected.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-port_workspace_screen.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-port/workspace_screen.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_grey.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_grey.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-port_delete_handle.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-port/delete_handle.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-port_live_folder_grid.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-port/live_folder_grid.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-land_ic_tray_expand.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-land/ic_tray_expand.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-land_application.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-land/application.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_bg_appwidget_error.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/bg_appwidget_error.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_grey_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_grey_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_road_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_road_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-port_application.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-port/application.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_green.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_green.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_focused_application_background.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/focused_application_background.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_blue_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_blue_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_application_list.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/application_list.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_sunrise_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_sunrise_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-land_tray_handle_pressed.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-land/tray_handle_pressed.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_green_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_green_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_pink_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_pink_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_beach.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_beach.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_wallpaper_chooser.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/wallpaper_chooser.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_snow_leopard_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_snow_leopard_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_launcher_folder_live.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_launcher_folder_live.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_placeholder_google.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/placeholder_google.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-port_ic_delete.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-port/ic_delete.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_list_checkbox_2lines.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/list_checkbox_2lines.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_lake_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_lake_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-land_launcher.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-land/launcher.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_launcher_folder.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_launcher_folder.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_search_button_voice.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/search_button_voice.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_delete_zone_selector.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/delete_zone_selector.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_mountain_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_mountain_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-land_live_folder_grid.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-land/live_folder_grid.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-land_application_boxed.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-land/application_boxed.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_shortcut_selector.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/shortcut_selector.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_textfield_searchwidget_pressed.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/textfield_searchwidget_pressed.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-land_tray_handle_selected.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-land/tray_handle_selected.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-port_launcher.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-port/launcher.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_search_floater.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/search_floater.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_box_launcher_top_pressed.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/box_launcher_top_pressed.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-land_ic_delete.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-land/ic_delete.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_launcher_home.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_launcher_home.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_frog_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_frog_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_path_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_path_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_grid_selector.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/grid_selector.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_handle_icon.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/handle_icon.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-port_tray_handle_normal.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-port/tray_handle_normal.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_box_launcher_top_normal.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/box_launcher_top_normal.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_rename_folder.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/rename_folder.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-port_folder_icon.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-port/folder_icon.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_turtle_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_turtle_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_snow_leopard.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_snow_leopard.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_pattern_carbon_fiber_dark.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/pattern_carbon_fiber_dark.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_box_launcher_bottom.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/box_launcher_bottom.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_pink.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_pink.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/anim_fade_in_fast.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/anim/fade_in_fast.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_box_launcher_top.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/box_launcher_top.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_pressed_application_background.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/pressed_application_background.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_add_list_item.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/add_list_item.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_beach_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_beach_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/color_bright_text_dark_focused.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/color/bright_text_dark_focused.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_live_folder_list.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/live_folder_list.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_blue.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_blue.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-port_ic_tray_collapse.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-port/ic_tray_collapse.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-land_delete_handle.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-land/delete_handle.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-land_user_folder.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-land/user_folder.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_ic_launcher_appwidget.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/ic_launcher_appwidget.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/xml_default_workspace.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/xml/default_workspace.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout-land_folder_icon.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout-land/folder_icon.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_appwidget_error.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/appwidget_error.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_jellyfish_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_jellyfish_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable-port_ic_tray_expand.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable-port/ic_tray_expand.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_box_launcher_top_selected.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/box_launcher_top_selected.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/anim_fade_out_fast.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/anim/fade_out_fast.xml"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_search_button_bg.9.png.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/search_button_bg.9.png"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/drawable_wallpaper_zanzibar_small.jpg.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/drawable/wallpaper_zanzibar_small.jpg"
+    },
+    {
+        "merged": "/home/yuanping/Code/Android/Launcher_master1/app/build/intermediates/res/merged/debug/layout_wallpaper_item.xml.flat",
+        "source": "/home/yuanping/Code/Android/Launcher_master1/app/src/main/res/layout/wallpaper_item.xml"
+    }
+]

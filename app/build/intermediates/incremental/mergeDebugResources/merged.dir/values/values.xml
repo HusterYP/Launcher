@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="extra_wallpapers">
+    </string-array>
+    <attr name="direction">
+        <!-- Vertical widget. -->
+        <enum name="vertical" value="0"/>
+        <!-- Horizontal widget. -->
+        <enum name="horizontal" value="1"/>
+    </attr>
+    <color name="appwidget_error_color">#FCCC</color>
+    <color name="bubble_dark_background">#B2191919</color>
+    <color name="delete_color_filter">#A5FF0000</color>
+    <color name="gesture_color">#ff0563c1</color>
+    <color name="grid_dark_background">#EB191919</color>
+    <color name="snag_callout_color">#F444</color>
+    <color name="uncertain_gesture_color">#ff848484</color>
+    <color name="window_background">#FF191919</color>
+    <declare-styleable name="AllAppsGridView"><attr format="reference" name="texture"/></declare-styleable>
+    <declare-styleable name="CellLayout"><attr format="dimension" name="cellWidth"/><attr format="dimension" name="cellHeight"/><attr format="dimension" name="longAxisStartPadding"/><attr format="dimension" name="longAxisEndPadding"/><attr format="dimension" name="shortAxisStartPadding"/><attr format="dimension" name="shortAxisEndPadding"/><attr format="integer" name="shortAxisCells"/><attr format="integer" name="longAxisCells"/></declare-styleable>
+    <declare-styleable name="DeleteZone"><attr name="direction"/></declare-styleable>
+    <declare-styleable name="Favorite"><attr format="string" name="className"/><attr format="string" name="packageName"/><attr format="string" name="screen"/><attr format="string" name="x"/><attr format="string" name="y"/></declare-styleable>
+    <declare-styleable name="HandleView"><attr name="direction"/></declare-styleable>
+    <declare-styleable name="Workspace"><attr format="integer" name="defaultScreen"/></declare-styleable>
+    <dimen name="gesture_thumbnail_inset">8dip</dimen>
+    <dimen name="gesture_thumbnail_size">64dip</dimen>
+    <dimen name="search_widget_inset">19dip</dimen>
+    <string name="activity_not_found">Application is not installed on your phone.</string>
+    <string name="add_clock">Clock</string>
+    <string name="add_folder">Folder</string>
+    <string name="add_photo_frame">Picture frame</string>
+    <string name="add_search">Search</string>
+    <string name="application_name">Home</string>
+    <string name="cancel_action">Cancel</string>
+    <string name="chooser_wallpaper">Select wallpaper from</string>
+    <string name="folder_name">Folder</string>
+    <string name="gadget_error_text">Problem loading widget</string>
+    <string name="group_applications">Applications</string>
+    <string name="group_folder">New folder</string>
+    <string name="group_live_folders">Folders</string>
+    <string name="group_search">Search</string>
+    <string name="group_shortcuts">Shortcuts</string>
+    <string name="group_wallpapers">Wallpapers</string>
+    <string name="group_widgets">Widgets</string>
+    <string name="menu_add">Add</string>
+    <string name="menu_gestures">Gestures</string>
+    <string name="menu_item_add_item">Add to Home screen</string>
+    <string name="menu_notifications">Notifications</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_wallpaper">Wallpaper</string>
+    <string name="out_of_space">No more room on this Home screen.</string>
+    <string name="permdesc_install_shortcut">Allows an application to add
+        shortcuts without user intervention.</string>
+    <string name="permdesc_read_settings">Allows an application to read the settings and
+        shortcuts in Home.</string>
+    <string name="permdesc_uninstall_shortcut">Allows an application to remove
+        shortcuts without user intervention.</string>
+    <string name="permdesc_write_settings">Allows an application to change the settings and
+        shortcuts in Home.</string>
+    <string name="permlab_install_shortcut">install shortcuts</string>
+    <string name="permlab_read_settings">read Home settings and shortcuts</string>
+    <string name="permlab_uninstall_shortcut">uninstall shortcuts</string>
+    <string name="permlab_write_settings">write Home settings and shortcuts</string>
+    <string name="pick_wallpaper">Wallpaper gallery</string>
+    <string name="rename_action">OK</string>
+    <string name="rename_folder_label">Folder name</string>
+    <string name="rename_folder_title">Rename folder</string>
+    <string name="search_hint">Google Search</string>
+    <string name="shortcut_duplicate">Shortcut \"%s\" already exists.</string>
+    <string name="shortcut_installed">Shortcut \"%s\" created.</string>
+    <string name="shortcut_uninstalled">Shortcut \"%s\" was removed.</string>
+    <string name="title_select_live_folder">Select folder</string>
+    <string name="title_select_shortcut">Select shortcut</string>
+    <string name="uid_name">Android Core Apps</string>
+    <string name="wallpaper_instructions">Set wallpaper</string>
+    <style name="SearchButton" parent="@android:style/Widget.Button.Small">
+        <item name="android:paddingTop">7dip</item>
+        <item name="android:paddingBottom">9dip</item>
+        <item name="android:paddingLeft">10dip</item>
+        <item name="android:paddingRight">10dip</item>
+    </style>
+    <style name="Theme" parent="android:Theme">
+        <item name="android:windowBackground">@null</item>
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <style name="WorkspaceIcon">
+        <item name="android:textSize">13dip</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:shadowColor">#FF000000</item>
+        <item name="android:shadowRadius">2.0</item>
+        <item name="android:textColor">#FFF</item>
+        <item name="android:gravity">center_horizontal</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">fill_parent</item>
+        <item name="android:background">@drawable/shortcut_selector</item>
+        <item name="android:paddingLeft">5dip</item>
+        <item name="android:paddingRight">5dip</item>
+    </style>
+    <style name="WorkspaceIcon.Landscape">
+        <item name="android:drawablePadding">3dip</item>
+        <item name="android:paddingTop">2dip</item>
+        <item name="android:layout_marginLeft">10dip</item>
+        <item name="android:layout_marginRight">10dip</item>
+    </style>
+    <style name="WorkspaceIcon.Portrait">
+        <item name="android:drawablePadding">5dip</item>
+        <item name="android:paddingTop">4dip</item>
+        <item name="android:layout_marginLeft">3dip</item>
+        <item name="android:layout_marginRight">3dip</item>
+        <item name="android:layout_marginTop">13dip</item>
+        <item name="android:layout_marginBottom">8dip</item>
+    </style>
+</resources>

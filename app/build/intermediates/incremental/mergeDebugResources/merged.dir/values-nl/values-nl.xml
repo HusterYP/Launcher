@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string msgid="3571057450431950427" name="activity_not_found">"Deze toepassing is niet geïnstalleerd op uw telefoon."</string>
+    <string msgid="2337943840175865746" name="add_clock">"Klok"</string>
+    <string msgid="3521088587367839879" name="add_folder">"Map"</string>
+    <string msgid="3154058437359487954" name="add_photo_frame">"Fotolijstje"</string>
+    <string msgid="7104834713685095105" name="add_search">"Zoeken"</string>
+    <string msgid="5865630159700533006" name="application_name">"Startpagina"</string>
+    <string msgid="3811860427489435048" name="cancel_action">"Annuleren"</string>
+    <string msgid="5988031014201479733" name="chooser_wallpaper">"Achtergrond selecteren in"</string>
+    <string msgid="4588446541914685904" name="folder_name">"Map"</string>
+    <string msgid="8359351016167075858" name="gadget_error_text">"Probleem bij het laden van widget"</string>
+    <string msgid="4118484163419674240" name="group_applications">"Toepassingen"</string>
+    <string msgid="5143593791798929193" name="group_folder">"Nieuwe map"</string>
+    <string msgid="2664945399140647217" name="group_live_folders">"Mappen"</string>
+    <string msgid="5905328940867162196" name="group_search">"Zoeken"</string>
+    <string msgid="9133529424900391877" name="group_shortcuts">"Sneltoetsen"</string>
+    <string msgid="1568191644272224858" name="group_wallpapers">"Achtergronden"</string>
+    <string msgid="6704978494073105844" name="group_widgets">"Widgets"</string>
+    <string msgid="3065046628354640854" name="menu_add">"Toevoegen"</string>
+    <string msgid="514678675575912237" name="menu_gestures">"Gebaren"</string>
+    <string msgid="6233177331075781114" name="menu_item_add_item">"Toevoegen aan startpagina"</string>
+    <string msgid="6424587053194766192" name="menu_notifications">"Meldingen"</string>
+    <string msgid="4826514464423239041" name="menu_search">"Zoeken"</string>
+    <string msgid="6233960148378443661" name="menu_settings">"Instellingen"</string>
+    <string msgid="5837429080911269832" name="menu_wallpaper">"Achtergrond"</string>
+    <string msgid="8365249326091984698" name="out_of_space">"Er is geen ruimte meer op dit startscherm."</string>
+    <string msgid="7429365847558984148" name="permdesc_install_shortcut">"Een toepassing toestaan om snelkoppelingen toe te voegen zonder tussenkomst van de gebruiker."</string>
+    <string msgid="8377434937176025492" name="permdesc_read_settings">"Hiermee kan een toepassing de instellingen en snelkoppelingen op de startpagina lezen."</string>
+    <string msgid="959972195916090900" name="permdesc_uninstall_shortcut">"Een toepassing toestaan om snelkoppelingen te verwijderen zonder tussenkomst van de gebruiker."</string>
+    <string msgid="1098648778383349818" name="permdesc_write_settings">"Hiermee kan een toepassing de instellingen en snelkoppelingen op de startpagina wijzigen."</string>
+    <string msgid="1201690825493376489" name="permlab_install_shortcut">"snelkoppelingen installeren"</string>
+    <string msgid="3452408290738106747" name="permlab_read_settings">"instellingen en snelkoppelingen voor de startpagina lezen"</string>
+    <string msgid="7696645932555926449" name="permlab_uninstall_shortcut">"snelkoppelingen verwijderen"</string>
+    <string msgid="1360567537236705628" name="permlab_write_settings">"instellingen en snelkoppelingen voor de startpagina schrijven"</string>
+    <string msgid="2674908923379130941" name="pick_wallpaper">"Achtergrondgalerij"</string>
+    <string msgid="6016003384693240896" name="rename_action">"OK"</string>
+    <string msgid="5646236631298452787" name="rename_folder_label">"Mapnaam"</string>
+    <string msgid="4544573104191526550" name="rename_folder_title">"Naam van map wijzigen"</string>
+    <string msgid="6974176141372467453" name="search_hint">"Google Zoeken"</string>
+    <string msgid="4887186782641532074" name="shortcut_duplicate">"Snelkoppeling \'%s\' bestaat al."</string>
+    <string msgid="6179314539443046225" name="shortcut_installed">"Snelkoppeling \'%s\' gemaakt."</string>
+    <string msgid="2758997515869993129" name="shortcut_uninstalled">"Snelkoppeling \'%s\' is verwijderd."</string>
+    <string msgid="3753447798805166749" name="title_select_live_folder">"Map selecteren"</string>
+    <string msgid="2858897527672831763" name="title_select_shortcut">"Snelkoppeling selecteren"</string>
+    <string msgid="3371120195364560632" name="uid_name">"Android-kerntoepassingen"</string>
+    <string msgid="4215640646180727542" name="wallpaper_instructions">"Achtergrond instellen"</string>
+</resources>
